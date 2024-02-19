@@ -18,5 +18,9 @@ public class C02Integer {
         long d = 329842;
 
 
+        //내일은 byte, short 배울 예정
+        //byte, short
+
+
     }
 }
